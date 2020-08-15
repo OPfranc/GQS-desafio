@@ -1,4 +1,19 @@
-# **Desafio  Programa Gente que Soma**
+# **Desafio Programa Gente que Soma**
+
+Gente que Soma é um programa cujo objetivo é atrair e capacitar talentos para atuarem profissionalmente no Grupo Voalle, que organiza o programa, e no mercado de trabalho.
+
+## Sobre o desafio:
+
+Dado uma letra ('A' a 'Z'), exibir um diamante iniciando em 'A' e tendo a letra fornecida como letra mais distante.
+
+As linguagens permitidas são: 
+
+- C#
+- Java
+- PHP
+- Javascript e derivados
+
+
 
 Para resolver o desafio foi usado **Reactjs**
 
